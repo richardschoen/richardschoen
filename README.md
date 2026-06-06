@@ -30,5 +30,7 @@ This repository contains a general list of how to items for any language similar
 The QShell on IBM i library contains useful CL wrapper commands to allow QShell and PASE apps to be called and consumed from regular IBM i jobs via CL, RPG or COBOL programs.   
 
 [**usefulweblinks** - My List of Useful Web Links](https://github.com/richardschoen/usefulweblinks)
+You may find some of these web links useful
 
-
+[**ibmibashscripts** - Bash Scripts for use in PASE, QShell on IBM i]https://github.com/richardschoen/ibmibashscripts
+Potentially useful Bash Scripts for use in PASE, QShell on IBM i
