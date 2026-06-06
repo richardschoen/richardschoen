@@ -62,6 +62,6 @@ You may find some of these web links useful
 
 
 ### Curated Repo List
-[**Curated Repos** - My Curated Repo List](https://github.com/richardschoen?tab=repositories)
-Browse a list of all my repos and others I have curated that I find interesting.    
+[**Curated Repos** - My Curated Repo List](https://github.com/richardschoen?tab=repositories)   
+Browse a list of all my repos and other repos I have curated that I find interesting or could possibly disappear over time.     
 
