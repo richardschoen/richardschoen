@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a seasoned software developer with a long track record of helping organizations streamline, automate, and modernize their workflows across ```Windows, Linux, macOS, IBM i/AS400 and Mobile``` environments. I enjoy bridging legacy systems with modern tooling to make processes faster, cleaner, and easier to maintain. I also enjoy mobile development to help companies save money and eliminate paper based processes.     
+I’m a seasoned software developer with a long track record of helping organizations streamline, automate, and modernize their workflows across ```Windows, Linux, macOS, IBM i/AS400 and Mobile``` environments. I enjoy bridging legacy systems with modern tooling to make processes faster, cleaner, and easier to maintain. I also like mobile development and helping companies save money and eliminate paper based processes.     
 
 If you need technical consulting to jump start a modernization, integration, API creation, mobile or workflow automation project feel free to reach out.  
 
