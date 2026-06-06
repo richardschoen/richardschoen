@@ -60,3 +60,8 @@ This repository contains various IBM i and other platform SQL samples and snippe
 [**usefulweblinks** - My List of Useful Web Links](https://github.com/richardschoen/usefulweblinks)   
 You may find some of these web links useful    
 
+
+### Curated Repo List
+[**Curated Repos** - My Curated Repo List](https://github.com/richardschoen?tab=repositories)
+Browse a list of all my repos and others I have curated that I find interesting.    
+
