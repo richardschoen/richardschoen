@@ -54,6 +54,9 @@ This repo will contain misc RPG, CL and command (CMD) coding examples
 [**howtostuff** - How to Articles for IBM i/Windows/Linux](https://www.github.com/richardschoen/howtostuff)  
 This repository contains a general list of how to items for any language similar to gist style articles but focused in a repo   
 
+[**sqlsamples** - Various IBM i and Other Platform SQL Samples](https://github.com/richardschoen/sqlsamples)
+This repository contains various IBM i and other platform SQL samples and snippets.   
+
 [**usefulweblinks** - My List of Useful Web Links](https://github.com/richardschoen/usefulweblinks)
 You may find some of these web links useful    
 
