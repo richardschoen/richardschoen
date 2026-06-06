@@ -21,6 +21,8 @@ Email: richard@mobigogo.net or richard@richarschoen.net
 Web Site: https://www.mobigogo.net   
 Blog Site: https://blog.richardschoen.net   
 
+## My Github Repos
+
 Here is a list of my own repos you may find interesting.   
 
 ### MobiGoGo LLC Product Related
@@ -35,11 +37,17 @@ Work with IBM i - Productivity Development Manager for Windows. This is my take 
 [**QshOni** - QShell on i - QSHONI - Using PASE/QShell from CL/RPG](https://www.github.com/richardschoen/qshoni)   
 The QShell on IBM i library contains useful CL wrapper commands to allow QShell and PASE apps to be called and consumed from regular IBM i jobs via CL, RPG or COBOL programs.   
 
-[**ibmiodbcdataaccess** - ADO.Net ODBC Wrapper Class for IBM i ](https://github.com/richardschoen/IbmiOdbcDataAccess)
+[**qshoniutil** - Repo for IBM i Utilities Based on QShell on i (QSHONI) Library](https://github.com/richardschoen/qshoniutil)
+The purpose for this repo is for misc utilities that won't be published as part of the core QShell on i (QSHONI) Library. I wanted to keep QSHONI pretty stabilized at this point as its QShell/PASE functionality is very complete. 
+
+[**ibmiodbcdataaccess** - ADO.Net ODBC Wrapper Class for IBM i and DotNet](https://github.com/richardschoen/IbmiOdbcDataAccess)
 This is an IBM i/AS400 ODBC Data Access Class for dotnet-framework and dotnet-core. Uses IBM i Access Client (ACS) ODBC Driver. This allows you to easily use ODBC with IBM i and C# or VB.Net.   
 
 [**ibmibashscripts** - Bash Scripts for use in PASE, QShell on IBM i](https://github.com/richardschoen/ibmibashscripts)
 Potentially useful Bash Scripts for use in PASE, QShell on IBM i
+
+[**rpgclcodingexamples** - RPG, CL an Command Coding Examples](https://github.com/richardschoen/rpgclcodingexamples)   
+This repo will contain misc RPG, CL and command (CMD) coding examples    
 
 ### General
 
