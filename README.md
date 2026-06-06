@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I’m a seasoned software developer with a long track record of helping organizations streamline, automate, and modernize their workflows across Windows, Linux, macOS, and IBM i/AS400 environments. I enjoy bridging legacy systems with modern tooling to make processes faster, cleaner, and easier to maintain.
 
-Here is a list of my own repos you may find interesting. This list helps you focus on my repos and not other interesting ones that I have forked for posterity.    
+Here is a list of my own repos you may find interesting.   
 
 ### MobiGoGo LLC Product Related
 [**iforgit** - IBM i CL Based Git Client for SEU/PDM, RDI and VS Code](https://www.github.com/richardschoen/howtostuff)   
