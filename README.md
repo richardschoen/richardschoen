@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I’m a seasoned software developer with a long track record of helping organizations streamline, automate, and modernize their workflows across ```Windows, Linux, macOS, IBM i/AS400 and Mobile``` environments. I enjoy bridging legacy systems with modern tooling to make processes faster, cleaner, and easier to maintain. I also enjoy mobile development to help companies save money and eliminate paper based processes.     
 
-If you need technical consulting on modernization, integration, API creation or workflow automation feel free to reach out.  
+If you need technical consulting to jump start a modernization, integration, API creation, mobile or workflow automation project feel free to reach out.  
 
 Email: richard@mobigogo.net or richard@richarschoen.net   
 Web Site: https://www.mobigogo.net   
