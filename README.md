@@ -23,7 +23,7 @@ Blog Site: https://blog.richardschoen.net
 
 ## My Github Repos
 
-Here is a list of my own repos you may find interesting.   
+Here is a list of my own repositories you may find interesting.   
 
 ### MobiGoGo LLC Product Related
 [**iforgit** - IBM i CL Based Git Client for SEU/PDM, RDI and VS Code](https://www.github.com/richardschoen/howtostuff)   
