@@ -1,4 +1,4 @@
-## Welcome to My GitHub Site - Connecting the world one service at a time. 
+## Welcome to My GitHub Site
 <!--
 **richardschoen/richardschoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
