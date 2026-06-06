@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Welcome 
 <!--
 **richardschoen/richardschoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a long time developer and focus on automating and modernizing workflows for Windows, Linux, MaOS and IBM i/AS400.
+
+Here is a list of my own repos you may find interesting
+
+### General How-To Stuff
+https://www.github.com/richardschoen/howtostuff
