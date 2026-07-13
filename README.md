@@ -26,7 +26,9 @@ Blog Site: https://blog.richardschoen.net
 Here is a consolidated list of my own repositories you may find interesting.   
 
 ### MobiGoGo LLC Product Related
-[**iforgit** - IBM i CL Based Git Client for SEU/PDM, RDI and VS Code](https://www.github.com/richardschoen/howtostuff)   
+[**mobiconnect** - MobiConnect Modernizing and Connecting the World One Service at a Time](https://www.github.com/richardschoen/mobiconnect)   
+
+[**iforgit** - IBM i CL Based Git Client for SEU/PDM, RDI and VS Code](https://www.github.com/richardschoen/iforgit)   
 ```Eliminate Awkward Git Integration for IBMi``` - iForGit Easy to implement Git Client for IBM i and RDI/SEU/PDM/VS Code developers for IBM i source version control with git.
 
 ### IBM i Related
